@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Sports-field-booking-management",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-HomeController",
+      "appliesTo": "TestTemplate/Controllers/HomeController.cs",
+      "type": "launch"
+    }
+  ]
+}

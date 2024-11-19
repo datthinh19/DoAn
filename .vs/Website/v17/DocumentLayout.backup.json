@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hw\\Sports-field-booking-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|d:\\hw\\sports-field-booking-management\\testtemplate\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|solutionrelative:testtemplate\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|d:\\hw\\sports-field-booking-management\\testtemplate\\views\\shared\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|solutionrelative:testtemplate\\views\\shared\\layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|d:\\hw\\sports-field-booking-management\\testtemplate\\models\\timmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|solutionrelative:testtemplate\\models\\timmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|d:\\hw\\sports-field-booking-management\\testtemplate\\views\\timkiem\\kqtimkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{130B40AB-E2C7-463F-B311-822407B5BDD2}|TestTemplate\\Website.csproj|solutionrelative:testtemplate\\views\\timkiem\\kqtimkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimModel.cs",
+              "DocumentMoniker": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Models\\TimModel.cs",
+              "RelativeDocumentMoniker": "TestTemplate\\Models\\TimModel.cs",
+              "ToolTip": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Models\\TimModel.cs",
+              "RelativeToolTip": "TestTemplate\\Models\\TimModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:03:25.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "TestTemplate\\Content\\css\\style.css",
+              "ToolTip": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Content\\css\\style.css",
+              "RelativeToolTip": "TestTemplate\\Content\\css\\style.css",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAAALsBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T10:01:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Views\\Shared\\LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "TestTemplate\\Views\\Shared\\LayoutUser.cshtml",
+              "ToolTip": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Views\\Shared\\LayoutUser.cshtml",
+              "RelativeToolTip": "TestTemplate\\Views\\Shared\\LayoutUser.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T09:44:47.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KQTimKiem.cshtml",
+              "DocumentMoniker": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "RelativeDocumentMoniker": "TestTemplate\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "ToolTip": "D:\\Hw\\Sports-field-booking-management\\TestTemplate\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "RelativeToolTip": "TestTemplate\\Views\\TimKiem\\KQTimKiem.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T09:44:37.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
